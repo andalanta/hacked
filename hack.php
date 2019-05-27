@@ -45,7 +45,7 @@ echo "\e[0;32mID : 100027071720613\n";
 sleep (2);
 echo "\e[0;32mSELAMAT . . .\n";
 sleep (2);
-echo "\e[0;32manda ter\e[0;31mHACK \e[0;31m!!\n";
+echo "\e[0;32manda ter\e[0;31mHACK \e[0;32m!!\n";
 sleep (2);
 echo "\e[0;32mawokwokwokwok kena prank\n";
 echo "\n";
