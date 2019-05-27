@@ -11,6 +11,6 @@ $banner = "\e[1;33m=====================
 echo "$banner\n";
 echo "\e[0;34mnama saya \e[0;32msakti\n";
 echo "\e[0;34mtapi saya bau limpojong\n";
-echo "\e[0;34mtekan \e[0;31mCTRL Z \e[0;34muntuk keluar\n>
+echo "\e[0;34mtekan \e[0;31mCTRL Z \e[0;34muntuk keluar\n";
 
 ?>
